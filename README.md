@@ -23,7 +23,7 @@ Texture | Syntax | May 5, 2023 | Oct 18, 2019
 Album/EP | Title | Release Date | Single Release Date
 --- | --- | --- | ---
 Polygon | Belgrade | Nov 20, 2015 | 
-Polygon | Valkyrie | Nov 20, 2015 | 
+Polygon | Valkyrie | Nov 20, 2015 | (Radio Edit) Oct 10, 2015
 Polygon | Solid Gold (feat. Party Nails) | Nov 20, 2015 | 
 Polygon | Private Dancer | Nov 20, 2015 | 
 Polygon | Graveyard Shift | Nov 20, 2015 | 
@@ -32,3 +32,25 @@ Polygon | Feel the Same | Nov 20, 2015 |
 Polygon | Mulholland | Nov 20, 2015 | 
 Polygon | Valley People | Nov 20, 2015 | 
 Polygon | Again | Nov 20, 2015 | 
+
+## EPs
+
+### Form
+
+Album/EP | Title | Release Date | Single Release Date
+--- | --- | --- | ---
+Form | Last Resort & Spa | Jul 14, 2017 | 
+Form | No Good | Jul 14, 2017 | Apr 21, 2017
+Form | Control | Jul 14, 2017 | 
+Form | Rhyme or Reason | Jul 14, 2017 | 
+Form | Alive | Jul 14, 2017 | 
+
+### Solid Gold EP (feat. Party Nails)
+
+Album/EP | Title | Release Date | Single Release Date
+--- | --- | --- | ---
+Solid Gold EP (feat. Party Nails) | Solid Gold (feat. Party Nails) | Apr 3, 2016 | (Released on Polygon) Nov 20, 2015
+Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 1) [feat. Party Nails] | Apr 3, 2016 | 
+Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 2) [feat. Party Nails] | Apr 3, 2016 | 
+Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | 
+Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine) [feat. Party Nails] | Apr 3, 2016 | 
