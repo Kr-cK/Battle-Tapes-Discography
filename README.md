@@ -54,3 +54,12 @@ Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 1) [feat. Par
 Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 2) [feat. Party Nails] | Apr 3, 2016 | 
 Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | 
 Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine) [feat. Party Nails] | Apr 3, 2016 | 
+
+### Sleepwalker - EP
+Album/EP | Title | Release Date | Single Release Date
+--- | --- | --- | ---
+Sleepwalker - EP | Sleepwalker | May 12, 2011 | 
+Sleepwalker - EP | Sleepwalker Pt. II | May 12, 2011 | 
+Sleepwalker - EP | Sleepwalker (Abstracted Camoflauge Remix) |  May 12, 2011 | [AKA Sleepwalker Pt. III]
+Sleepwalker - EP | Sleepwalker (The Radish Remix) | May 12, 2011 | 
+Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 | 
