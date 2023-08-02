@@ -55,7 +55,18 @@ Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 2) [feat. Par
 Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | 
 Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine) [feat. Party Nails] | Apr 3, 2016 | 
 
+### Sweatshop Boys - EP
+
+Album/EP | Title | Release Date | Single Release Date
+--- | --- | --- | ---
+Sweatshop Boys - EP | Sweatshop Boys | Apr 13, 2012 | 
+Sweatshop Boys - EP | Why (Segue Edit) |  Apr 13, 2012 | 
+Sweatshop Boys - EP | Made |  Apr 13, 2012 | 
+Sweatshop Boys - EP | Mulholland (Segue Edit) |  Apr 13, 2012 | (Released on Polygon Nov 20, 2015)
+Sweatshop Boys - EP | Feel the Same |  Apr 13, 2012 | (Released on Polygon Nov 20, 2015)
+
 ### Sleepwalker - EP
+
 Album/EP | Title | Release Date | Single Release Date
 --- | --- | --- | ---
 Sleepwalker - EP | Sleepwalker | May 12, 2011 | 
