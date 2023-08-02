@@ -49,7 +49,7 @@ Form | Alive | Jul 14, 2017 |
 
 Album/EP | Title | Release Date | Single Release Date
 --- | --- | --- | ---
-Solid Gold EP (feat. Party Nails) | Solid Gold (feat. Party Nails) | Apr 3, 2016 | (Released on Polygon) Nov 20, 2015
+Solid Gold EP (feat. Party Nails) | Solid Gold (feat. Party Nails) | Apr 3, 2016 | (Released on Polygon Nov 20, 2015)
 Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 1) [feat. Party Nails] | Apr 3, 2016 | 
 Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 2) [feat. Party Nails] | Apr 3, 2016 | 
 Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | 
