@@ -133,7 +133,7 @@ Girls | | Solid Gold
 Lethal Weapon | | Made
 The Crew 2 | | Dreamboat, Mulholland
 Asphalt 9: Legends | | Valkyrie
-S.W.A.T. - | S3E14 | Made
+S.W.A.T. | S3E14 | Made
 Gen:LOCK | Through the series | Belgrade, Syntax, Alive, Sweatshop Boys, Last Resort & Spa, Weight of the World
 Xbox Elite Wireless Controller Series 2 | Announce trailer | Feel the Same
 The Blacklist | S4E21 | Belgrade
