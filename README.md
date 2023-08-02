@@ -18,6 +18,8 @@ Texture | Weight of the World | May 5, 2023 | Feb 22, 2019
 Texture | Back in the Game | May 5, 2023 | 
 Texture | Syntax | May 5, 2023 | Oct 18, 2019
 
+### Polygon
+
 Album/EP | Title | Release Date | Single Release Date
 --- | --- | --- | ---
 Polygon | Belgrade | Nov 20, 2015 | 
