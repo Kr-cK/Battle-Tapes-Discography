@@ -1,6 +1,8 @@
 # Battle-Tapes-Discography
 Fun little community project for Battle Tapes fans
 
+[[EPs]]
+
 ## Albums
 
 ### Texture
