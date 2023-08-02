@@ -71,8 +71,8 @@ Album/EP | Title | Release Date | Single Release Date
 --- | --- | --- | ---
 Sleepwalker - EP | Sleepwalker | May 12, 2011 | 
 Sleepwalker - EP | Sleepwalker Pt. II | May 12, 2011 | 
-Sleepwalker - EP | Sleepwalker (Abstracted Camoflauge Remix) |  May 12, 2011 | (AKA Sleepwalker Pt. III)
-Sleepwalker - SP | Sleepwalker (Slighter's Wide Awake Remix) | 
+Sleepwalker - EP | Sleepwalker (Abstracted Camoflauge Remix) | May 12, 2011 | (AKA Sleepwalker Pt. III)
+Sleepwalker - SP | Sleepwalker (Slighter's Wide Awake Remix) | May 12, 2011 | 
 Sleepwalker - EP | Sleepwalker (The Radish Remix) | May 12, 2011 | 
 Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 | 
 
