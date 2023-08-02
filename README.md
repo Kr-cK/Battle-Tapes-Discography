@@ -117,19 +117,19 @@ wip
 
 > Note: A lot of this is not my original writing. See [sources](#Sources)
 
-Need For Speed 2015: Valkyrie. Mixing of the song is noticeably different. This version was not officially released
-but can be found on Youtube @https://www.youtube.com/watch?v=bknj3R74vlQ
+- Need For Speed 2015: Valkyrie. Mixing of the song is noticeably different. This version was not officially released
+but can be found on Youtube https://www.youtube.com/watch?v=bknj3R74vlQ
 
 Theres a bunch of remixes/variants at Battle Tapes' live shows. (Incl. Valkyrie, Feel the Same, Sweatshop Boys, etc)
-See [Battle Tapes Live at the Morrocan Lounge] - https://www.youtube.com/watch?v=rsgPT_x-RGI
+See https://www.youtube.com/watch?v=rsgPT_x-RGI
 
 A radio edit of Valkyrie exists. Intro is shorter, third chorus does not repeat a second time.
 
 Feel the Same exists in GTA V's Radio Mirror Park radio station. It is pitch shifted.
 
-A full version of Why exists, but was not included in albums. (Due to uncleared samples)
+A full version of Why exists, but was not included in albums (due to uncleared samples).
 
-A slower demo of In Too Deep exists (YouTube Shorts: https://www.youtube.com/shorts/WFsooowaRLI)
+A slower demo of In Too Deep exists (https://www.youtube.com/shorts/WFsooowaRLI)
 The In Too Deep featured in "The Naked Director Season 2 Trailer" has a different tempo and different mixing
 
 A (non-distributed) instrumental of Last Resort and Spa exists (YouTube: https://www.youtube.com/watch?v=0J1I32dWEjk)
