@@ -1,7 +1,7 @@
 # Battle-Tapes-Discography
 Fun little community discography for Battle Tapes fans
 
-Jump to [Albums](#Albums)
+Jump to - [Albums](#Albums) - [EPs](#EPs) - [Remixes](#Remixes) - [In Media](#In-Media) - [Variants](#Variants) - [Unreleased](#Unreleased)
 
 ## Albums
 
@@ -108,6 +108,12 @@ Palm Springs Reset | Julien-K | Sep 11, 2012
 I Like Van Halen | El Ten Eleven | Sep 13, 2011
 Balloon | Wendy & Lisa | Jan , 2011
 LA Water | Helmet | Jan 7, 2011
+
+## In Media
+
+## Variants
+
+## Unreleased
 
 ## Sources
 
