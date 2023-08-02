@@ -118,7 +118,7 @@ Media | Where | Song
 Teen Wolf | S3E4 | Made
 Grand Theft Auto V | | Feel the Same
 Elementary | S2E4 | Sleepwalker
-National Geographic Channel | Ad Dampaign | Sweatshop Boys
+National Geographic Channel | Ad Campaign | Sweatshop Boys
 BBC One - Casualty | Series 32 finale promo | Feel the Same
 Need for Speed | Trailer | Feel the Same
 The Originals | S1E17 | Feel the Same
