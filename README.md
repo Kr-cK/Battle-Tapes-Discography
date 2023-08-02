@@ -113,32 +113,32 @@ LA Water | Helmet | Jan 7, 2011
 
 Media | Where | Song
 --- | --- | ---
-Teen Wolf | (season 3, episode 4) | Made
+Teen Wolf | S3E4 | Made
 Grand Theft Auto V | | Feel the Same
-Elementary | (season 2, episode 4) | Sleepwalker
-National Geographic Channel | (Ad Campaign) | Sweatshop Boys
-BBC One - Casualty | (Series 32 finale promo) | Feel the Same
-Need for Speed | (Trailer) | Feel the Same
-The Originals | (season 1, episode 17) | Feel the Same
-NBC Sports | (Formula 1/Monaco GP) | Feel the Same
-State of Affairs | (season 1, episode 12) | Feel the Same
-Need for Speed | (drift races) | Valkyrie
+Elementary | S2E4 | Sleepwalker
+National Geographic Channel | Ad Dampaign | Sweatshop Boys
+BBC One - Casualty | Series 32 finale promo | Feel the Same
+Need for Speed | Trailer | Feel the Same
+The Originals | S1E17 | Feel the Same
+NBC Sports | Formula 1/Monaco GP | Feel the Same
+State of Affairs | S1E12 | Feel the Same
+Need for Speed | Drift races | Valkyrie
 Asphalt Xtreme | | Belgrade
-Lucifer | (season 1, episode 2) | Valkyrie
-Bones | (season 9, episode 14) | Sweatshop Boys
+Lucifer | S1E2 | Valkyrie
+Bones | S9E14 | Sweatshop Boys
 Now You See Me 2 | | Belgrade
-Girls | |Solid Gold
+Girls | | Solid Gold
 Lethal Weapon | | Made
 The Crew 2 | | Dreamboat, Mulholland
 Asphalt 9: Legends | | Valkyrie
-S.W.A.T. - | (season 3, episode 14) | Made
-Gen:LOCK | (Web series) - "Belgrade" (Main theme), "Syntax" (season 1, episode 2), "Alive" (season 1, episode 3), "Sweatshop Boys" (season 1, episode 4), "Last Resort & Spa" (season 1, episode 4), "Weight of the World" (season 1, episode 8)
-Xbox Elite Wireless Controller Series 2 | (Announce Trailer) | Feel the Same
-The Blacklist | (season 4, episode 21) | Belgrade
+S.W.A.T. - | S3E14 | Made
+Gen:LOCK | Through the series | Belgrade, Syntax, Alive, Sweatshop Boys, Last Resort & Spa, Weight of the World
+Xbox Elite Wireless Controller Series 2 | Announce trailer | Feel the Same
+The Blacklist | S4E21 | Belgrade
 Hyper Scape | | Feel the Same
-Invincible (TV series) | (episode 5) | Alive
-The Naked Director | (season 2 trailer) | In Too Deep
-The Flash (2014 TV series) | (season 6, episode 3) | Made
+Invincible (TV series) | S1E5 | Alive
+The Naked Director | Season 2 trailer | In Too Deep
+The Flash (2014 TV series) | S6E3 | Made
 
 ## Variants
 
