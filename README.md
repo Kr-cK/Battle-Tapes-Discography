@@ -115,7 +115,7 @@ wip
 
 ## Variants
 
-> Note: A lot of this is not my original writing. See [sources](#Sources)
+> Note: A lot of this is not my writing. See [sources](#Sources)
 
 - Need For Speed 2015: Valkyrie. Mixing of the song is noticeably different. This version was not officially released
 but can be found on Youtube https://www.youtube.com/watch?v=bknj3R74vlQ
