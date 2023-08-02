@@ -1,7 +1,7 @@
 # Battle-Tapes-Discography
-Fun little community discography for Battle Tapes fans
+Fun little community discography for Battle Tapes fans. See [About/Sources](#About/Sources)
 
-Jump to - [Albums](#Albums) - [EPs](#EPs) - [Remixes](#Remixes) - [In Media](#In-Media) - [Variants](#Variants) - [Unreleased](#Unreleased) - [Sources](#Sources)
+Jump to - [Albums](#Albums) - [EPs](#EPs) - [Remixes](#Remixes) - [In Media](#In-Media) - [Variants](#Variants) - [Unreleased](#Unreleased) - [About/Sources](#About/Sources)
 
 ## Albums
 
@@ -111,11 +111,38 @@ LA Water | Helmet | Jan 7, 2011
 
 ## In Media
 
-wip
+Media | Where | Song
+--- | --- | ---
+Teen Wolf | (season 3, episode 4) | Made
+Grand Theft Auto V | | Feel the Same
+Elementary | (season 2, episode 4) | Sleepwalker
+National Geographic Channel | (Ad Campaign) | Sweatshop Boys
+BBC One - Casualty | (Series 32 finale promo) | Feel the Same
+Need for Speed | (Trailer) | Feel the Same
+The Originals | (season 1, episode 17) | Feel the Same
+NBC Sports | (Formula 1/Monaco GP) | Feel the Same
+State of Affairs | (season 1, episode 12) | Feel the Same
+Need for Speed | (drift races) | Valkyrie
+Asphalt Xtreme | | Belgrade
+Lucifer | (season 1, episode 2) | Valkyrie
+Bones | (season 9, episode 14) | Sweatshop Boys
+Now You See Me 2 | | Belgrade
+Girls | |Solid Gold
+Lethal Weapon | | Made
+The Crew 2 | | Dreamboat, Mulholland
+Asphalt 9: Legends | | Valkyrie
+S.W.A.T. - | (season 3, episode 14) | Made
+Gen:LOCK | (Web series) - "Belgrade" (Main theme), "Syntax" (season 1, episode 2), "Alive" (season 1, episode 3), "Sweatshop Boys" (season 1, episode 4), "Last Resort & Spa" (season 1, episode 4), "Weight of the World" (season 1, episode 8)
+Xbox Elite Wireless Controller Series 2 | (Announce Trailer) | Feel the Same
+The Blacklist | (season 4, episode 21) | Belgrade
+Hyper Scape | | Feel the Same
+Invincible (TV series) | (episode 5) | Alive
+The Naked Director | (season 2 trailer) | In Too Deep
+The Flash (2014 TV series) | (season 6, episode 3) | Made
 
 ## Variants
 
-> Note: A lot of this is not my writing. See [sources](#Sources)
+> Note: A lot of this section is not my writing. See [sources](#Sources)
 
 - Need For Speed 2015: Valkyrie. Mixing of the song is noticeably different. This version was not officially released
 but can be found on Youtube https://www.youtube.com/watch?v=bknj3R74vlQ
@@ -146,7 +173,7 @@ Battle Tapes Website Download | Qobuz
 
 ## Unreleased
 
-> Note: A lot of this is not my writing. See [sources](#Sources)
+> Note: A lot of this section is not my writing. See [sources](#Sources)
 
 - https://web.archive.org/web/20200510005622/https://twitter.com/zyncmusic/status/1257163405472854016
 - https://web.archive.org/web/20200511023106/https://twitter.com/HBO/status/1257112709989982208
@@ -155,6 +182,8 @@ Battle Tapes Website Download | Qobuz
 According to these links, there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
 Might be released on the new album, but Starts Right Here was not, so who knows.
 
-## Sources
+## About/Sources
 
-Made from a combination of the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the ["Battle_Tapes_Discography.txt"](https://discord.com/channels/420455270116753408/485095847529283594/884553822029115392) tossed around in there.
+Made from a combination of info from the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the ["Battle_Tapes_Discography.txt"](https://discord.com/channels/420455270116753408/485095847529283594/884553822029115392) tossed around in there. 
+
+Little of the writing here is mine, of course. Just a combination of all the sources I could find. Feel free to contribute at any time.
