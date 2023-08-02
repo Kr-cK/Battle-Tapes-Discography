@@ -82,14 +82,15 @@ Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 |
 
 Album/EP | Title | Release Date | Remixer
 --- | --- | --- | ---
+Texture | In Too Deep (Lenno Remix) | Oct 7, 2022 | Lenno
+Texture | If Only (Snakes of Russia Remix) | August 5, 2022 | Snakes of Russia
+Texture | If Only (The Anix Remix) | July 29, 2022 | The Anix
+Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | Story of the Running Wolf
+Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine Remix) [feat. Party Nails] | Apr 3, 2016 | The Beta Machine
 Sleepwalker - EP | Sleepwalker (Slighter's Wide Awake Remix) | May 12, 2011 | Slighter
 Sleepwalker - EP | Sleepwalker (The Radish Remix) | May 12, 2011 | The Radish
 Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 | Lordx
-Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | Story of the Running Wolf
-Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine Remix) [feat. Party Nails] | Apr 3, 2016 | The Beta Machine
-Texture | If Only (The Anix Remix) | July 29, 2022 | The Anix
-Texture | If Only (Snakes of Russia Remix) | August 5, 2022 | Snakes of Russia
-Texture | In Too Deep (Lenno Remix) | Oct 7, 2022 | Lenno
+
 
 ### By Battle Tapes
 
