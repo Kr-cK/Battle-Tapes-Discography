@@ -146,7 +146,14 @@ Battle Tapes Website Download | Qobuz
 
 ## Unreleased
 
-wip
+> Note: A lot of this is not my writing. See [sources](#Sources)
+
+- https://web.archive.org/web/20200510005622/https://twitter.com/zyncmusic/status/1257163405472854016
+- https://web.archive.org/web/20200511023106/https://twitter.com/HBO/status/1257112709989982208
+- https://web.archive.org/web/20200604223426/https://www.youtube.com/watch?v=jsI4WwuTuPg
+
+According to these links, there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
+Might be released on the new album, but Starts Right Here was not, so who knows.
 
 ## Sources
 
