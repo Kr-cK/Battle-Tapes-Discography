@@ -97,4 +97,4 @@ x
 
 ## Sources
 
-Made from a combination of the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the "Battle_Tapes_Discography.txt" tossed around in there.
+Made from a combination of the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the ["Battle_Tapes_Discography.txt"](https://discord.com/channels/420455270116753408/485095847529283594/884553822029115392) tossed around in there.
