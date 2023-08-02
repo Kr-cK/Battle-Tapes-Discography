@@ -94,7 +94,19 @@ Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 | Lordx
 
 ### By Battle Tapes
 
-x
+Title | Original Artist | Release Date
+--- | --- | ---
+Have You Ever (Battle Tapes Remix) | Urban Heat | Dec 23, 2023
+100 - Battle Tapes Remix | Kauf | August 31, 2018
+Never Dance Again - Battle Tapes Remix | Sunset Neon | May 25, 2018
+Never Dance Again (Battle Tapes Remix) - Instrumental | Sunset Neon | May 25, 2018
+Phantogram - You Don't Get Me High Anymore (Battle Tapes Remix) | Phantogram | May 4, 2017
+Childish Gambino - Sweatpants (Battle Tapes Remix) | Childish Gambino | Jul 31, 2014
+Uh Huh Her - Time (Battle Tapes Remix) | Uh Huh Her | Jun 25, 2014
+Palm Springs Reset - (Battle Tapes Remix) | Julien-K | Sep 11, 2012
+El Ten Eleven - I Like Van Halen (Battle Tapes Remix) | El Ten Eleven | Sep 13, 2011
+Wendy & Lisa - Balloon (Battle Tapes Remix) | Wendy & Lisa | Jan , 2011
+Helmet - LA Water (Battle Tapes Remix) | Helmet | Jan 7, 2011
 
 ## Sources
 
