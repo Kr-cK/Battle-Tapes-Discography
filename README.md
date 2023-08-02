@@ -81,7 +81,7 @@ Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 |
 ### Of Battle Tapes
 
 Album/EP | Title | Release Date | Remixer
---- | --- | ---
+--- | --- | --- | ---
 Sleepwalker - EP | Sleepwalker (Slighter's Wide Awake Remix) | May 12, 2011 | Slighter
 Sleepwalker - EP | Sleepwalker (The Radish Remix) | May 12, 2011 | The Radish
 Sleepwalker - EP | Sleepwalker (Lordx Remix) | Sleepwalker (Lordx Remix | Lordx
