@@ -1,7 +1,7 @@
 # Battle-Tapes-Discography
 Fun little community discography for Battle Tapes fans. See [Info](#info) for About & Sources
 
-Jump to - [Albums](#Albums) - [EPs](#EPs) - [Remixes](#Remixes) - [In Media](#In-Media) - [Variants](#Variants) - [Unreleased](#unreleased) - [Info](#info)
+Jump to - [Albums](#albums) - [EPs](#eps) - [Remixes](#remixes) - [In Media](#in-media) - [Variants](#variants) - [Unreleased](#unreleased) - [Info](#info)
 
 ## Albums
 
