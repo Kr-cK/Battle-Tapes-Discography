@@ -1,6 +1,8 @@
 # Battle-Tapes-Discography
 Fun little community discography for Battle Tapes fans
 
+Jump to [Albums](#Albums)
+
 ## Albums
 
 ### Texture
