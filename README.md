@@ -1,5 +1,5 @@
 # Battle-Tapes-Discography
-Fun little community project for Battle Tapes fans
+Fun little community discography for Battle Tapes fans
 
 ## Albums
 
