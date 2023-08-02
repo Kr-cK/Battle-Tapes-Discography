@@ -111,6 +111,8 @@ LA Water | Helmet | Jan 7, 2011
 
 ## In Media
 
+> Taken largely from [Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes)
+
 Media | Where | Song
 --- | --- | ---
 Teen Wolf | S3E4 | Made
