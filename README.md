@@ -1,8 +1,6 @@
 # Battle-Tapes-Discography
 Fun little community project for Battle Tapes fans
 
-[[EPs]]
-
 ## Albums
 
 ### Texture
@@ -55,7 +53,7 @@ Solid Gold EP (feat. Party Nails) | Solid Gold (feat. Party Nails) | Apr 3, 2016
 Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 1) [feat. Party Nails] | Apr 3, 2016 | 
 Solid Gold EP (feat. Party Nails) | Solid Gold (Battle Tapes Remix 2) [feat. Party Nails] | Apr 3, 2016 | 
 Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | 
-Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine) [feat. Party Nails] | Apr 3, 2016 | 
+Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine Remix) [feat. Party Nails] | Apr 3, 2016 | 
 
 ### Sweatshop Boys - EP
 
@@ -74,5 +72,29 @@ Album/EP | Title | Release Date | Single Release Date
 Sleepwalker - EP | Sleepwalker | May 12, 2011 | 
 Sleepwalker - EP | Sleepwalker Pt. II | May 12, 2011 | 
 Sleepwalker - EP | Sleepwalker (Abstracted Camoflauge Remix) |  May 12, 2011 | (AKA Sleepwalker Pt. III)
+Sleepwalker - SP | Sleepwalker (Slighter's Wide Awake Remix) | 
 Sleepwalker - EP | Sleepwalker (The Radish Remix) | May 12, 2011 | 
 Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 | 
+
+## Remixes
+
+### Of Battle Tapes
+
+Album/EP | Title | Release Date | Remixer
+--- | --- | ---
+Sleepwalker - EP | Sleepwalker (Slighter's Wide Awake Remix) | May 12, 2011 | Slighter
+Sleepwalker - EP | Sleepwalker (The Radish Remix) | May 12, 2011 | The Radish
+Sleepwalker - EP | Sleepwalker (Lordx Remix) | Sleepwalker (Lordx Remix | Lordx
+Solid Gold EP (feat. Party Nails) | Solid Gold (Story of the Running Wolf Remix) [feat. Party Nails] | Apr 3, 2016 | Story of the Running Wolf
+Solid Gold EP (feat. Party Nails) | Solid Gold (The Beta Machine Remix) [feat. Party Nails] | Apr 3, 2016 | The Beta Machine
+Texture | If Only (The Anix Remix) | July 29, 2022 | The Anix
+Texture | If Only (Snakes of Russia Remix) | August 5, 2022 | Snakes of Russia
+Texture | In Too Deep (Lenno Remix) | Oct 7, 2022 | Lenno
+
+### By Battle Tapes
+
+
+
+## Sources
+
+Made from a combination of the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the "Battle_Tapes_Discography.txt" tossed around in there.
