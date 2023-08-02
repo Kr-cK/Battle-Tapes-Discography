@@ -91,9 +91,7 @@ Sleepwalker - EP | Sleepwalker (Slighter's Wide Awake Remix) | May 12, 2011 | Sl
 Sleepwalker - EP | Sleepwalker (The Radish Remix) | May 12, 2011 | The Radish
 Sleepwalker - EP | Sleepwalker (Lordx Remix) | May 12, 2011 | Lordx
 
-
 ### By Battle Tapes
-
 
 Title | Original Artist | Release Date
 --- | --- | ---
@@ -108,7 +106,6 @@ Palm Springs Reset - (Battle Tapes Remix) | Julien-K | Sep 11, 2012
 El Ten Eleven - I Like Van Halen (Battle Tapes Remix) | El Ten Eleven | Sep 13, 2011
 Wendy & Lisa - Balloon (Battle Tapes Remix) | Wendy & Lisa | Jan , 2011
 Helmet - LA Water (Battle Tapes Remix) | Helmet | Jan 7, 2011
-
 
 ## Sources
 
