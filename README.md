@@ -1,7 +1,7 @@
 # Battle-Tapes-Discography
-Fun little community discography for Battle Tapes fans. See [About and Sources](#About-and-sources)
+Fun little community discography for Battle Tapes fans. See [About & Sources](#About-&-sources)
 
-Jump to - [Albums](#Albums) - [EPs](#EPs) - [Remixes](#Remixes) - [In Media](#In-Media) - [Variants](#Variants) - [Unreleased](#Unreleased) - [About and Sources](#About-and-Sources)
+Jump to - [Albums](#Albums) - [EPs](#EPs) - [Remixes](#Remixes) - [In Media](#In-Media) - [Variants](#Variants) - [Unreleased](#Unreleased) - [About & Sources](#About-&-Sources)
 
 ## Albums
 
@@ -175,7 +175,7 @@ Battle Tapes Website Download | Qobuz
 
 ## Unreleased
 
-> Note: A lot of this section is not my writing. See [sources](#About-and-sources)
+> Note: A lot of this section is not my writing. See [sources](#About-&-sources)
 
 - https://web.archive.org/web/20200510005622/https://twitter.com/zyncmusic/status/1257163405472854016
 - https://web.archive.org/web/20200511023106/https://twitter.com/HBO/status/1257112709989982208
@@ -184,7 +184,7 @@ Battle Tapes Website Download | Qobuz
 According to these links, there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
 Might be released on the new album, but Starts Right Here was not, so who knows.
 
-## About and Sources
+## About & Sources
 
 Made from a combination of info from the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the ["Battle_Tapes_Discography.txt"](https://discord.com/channels/420455270116753408/485095847529283594/884553822029115392) tossed around in there. 
 
