@@ -147,10 +147,9 @@ The Flash (2014 TV series) | S6E3 | Made
 > Note: A lot of this section is not my writing. See [Info](#Info)
 
 - Need For Speed 2015: Valkyrie. Mixing of the song is noticeably different. This version was not officially released
-but can be found on Youtube https://www.youtube.com/watch?v=bknj3R74vlQ
+but can be found on [Youtube](https://www.youtube.com/watch?v=bknj3R74vlQ)
 
-- Theres a bunch of remixes/variants at Battle Tapes' live shows. (Incl. Valkyrie, Feel the Same, Sweatshop Boys, etc)
-See https://www.youtube.com/watch?v=rsgPT_x-RGI
+- Theres a bunch of remixes/variants at Battle Tapes' live shows. (Incl. Valkyrie, Feel the Same, Sweatshop Boys, etc) ([Youtube](https://www.youtube.com/watch?v=rsgPT_x-RGI)
 
 - A radio edit of Valkyrie exists. Intro is shorter, third chorus does not repeat a second time.
 
@@ -158,11 +157,11 @@ See https://www.youtube.com/watch?v=rsgPT_x-RGI
 
 - A full version of Why exists, but was not included in albums (due to uncleared samples).
 
-- A slower demo of In Too Deep exists (https://www.youtube.com/shorts/WFsooowaRLI)
+- A slower demo of In Too Deep exists ([Youtube](https://www.youtube.com/shorts/WFsooowaRLI))
 
 - The In Too Deep featured in "The Naked Director Season 2 Trailer" has a different tempo and different mixing
 
-- A (non-distributed) instrumental of Last Resort and Spa exists, with extra changes at ~3:00 (YouTube: https://www.youtube.com/watch?v=0J1I32dWEjk)
+- A (non-distributed) instrumental of Last Resort and Spa exists, with extra changes at ~3:00 ([Youtube](https://www.youtube.com/watch?v=0J1I32dWEjk))
 
 - There's 2 variants of Weight of the World. The second variant has a more "fuzzy" chorus. V2 was discovered closer to the Texture release, and is the same version found on Spotify's Texture release.
 
