@@ -172,7 +172,7 @@ Battle Tapes Website Download | Qobuz
 
 - The Texture version of Syntax seems to be a different version as well.
 
-## Unreleased
+## Unreleased 🤫
 
 > Note: A lot of this section is not my writing. See [Info](#Info)
 
@@ -183,7 +183,7 @@ Battle Tapes Website Download | Qobuz
 According to these links, there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
 Might be released on the new album, but Starts Right Here was not, so who knows.
 
-BMI has a repertoire that lets you [see the titles of some unreleased songs](https://repertoire.bmi.com/Search/Search?Main_Search_Text=Battle%20Tapes&Main_Search=Catalog&Search_Type=all&View_Count=20&Page_Number=1&Part_Type=PerformerList&Part_Id=k%252btrXQ9awZUEMuihUaVCxQ%253d%253d&Part_Id_Sub=YO0HedHMatLb45JzS23DVw%253d%253d&Part_Cae=YO0HedHMatLb45JzS23DVw%253d%253d&Original_Search=Performer) 🤫
+BMI has a repertoire that lets you [see the titles of some unreleased songs](https://repertoire.bmi.com/Search/Search?Main_Search_Text=Battle%20Tapes&Main_Search=Catalog&Search_Type=all&View_Count=20&Page_Number=1&Part_Type=PerformerList&Part_Id=k%252btrXQ9awZUEMuihUaVCxQ%253d%253d&Part_Id_Sub=YO0HedHMatLb45JzS23DVw%253d%253d&Part_Cae=YO0HedHMatLb45JzS23DVw%253d%253d&Original_Search=Performer) 
 
 ## Info
 
