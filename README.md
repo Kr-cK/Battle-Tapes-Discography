@@ -126,7 +126,7 @@ Asphalt 9: Legends | | Valkyrie
 Lucifer | S1E2 | Valkyrie
 Girls | | Solid Gold
 The Crew 2 | | Dreamboat, Mulholland
-National Geographic Channel | Ad Campaign | Sweatshop Boys
+National Geographic Channel | Ad campaign | Sweatshop Boys
 Bones | S9E14 | Sweatshop Boys
 Teen Wolf | S3E4 | Made
 Lethal Weapon | | Made
