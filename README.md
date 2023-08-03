@@ -183,6 +183,8 @@ Battle Tapes Website Download | Qobuz
 According to these links, there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
 Might be released on the new album, but Starts Right Here was not, so who knows.
 
+BMI has a repertoire that lets you [see the titles of some unreleased songs](https://repertoire.bmi.com/Search/Search?Main_Search_Text=Battle%20Tapes&Main_Search=Catalog&Search_Type=all&View_Count=20&Page_Number=1&Part_Type=PerformerList&Part_Id=k%252btrXQ9awZUEMuihUaVCxQ%253d%253d&Part_Id_Sub=YO0HedHMatLb45JzS23DVw%253d%253d&Part_Cae=YO0HedHMatLb45JzS23DVw%253d%253d&Original_Search=Performer) 🤫
+
 ## Info
 
 Made from a combination of info from the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the ["Battle_Tapes_Discography.txt"](https://discord.com/channels/420455270116753408/485095847529283594/884553822029115392) tossed around in there. 
