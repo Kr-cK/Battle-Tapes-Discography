@@ -149,7 +149,7 @@ The Flash (2014 TV series) | S6E3 | Made
 - Need For Speed 2015: Valkyrie. Mixing of the song is noticeably different. This version was not officially released
 but can be found on [Youtube](https://www.youtube.com/watch?v=bknj3R74vlQ)
 
-- Theres a bunch of remixes/variants at Battle Tapes' live shows. (Incl. Valkyrie, Feel the Same, Sweatshop Boys, etc) ([Youtube](https://www.youtube.com/watch?v=rsgPT_x-RGI)
+- Theres a bunch of remixes/variants at Battle Tapes' live shows. (Incl. Valkyrie, Feel the Same, Sweatshop Boys, etc) ([Youtube](https://www.youtube.com/watch?v=rsgPT_x-RGI))
 
 - A radio edit of Valkyrie exists. Intro is shorter, third chorus does not repeat a second time.
 
