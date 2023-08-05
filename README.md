@@ -147,7 +147,6 @@ Hyper Scape | | Feel the Same
 Grand Theft Auto V | | Feel the Same
 Xbox Elite Wireless Controller Series 2 | Announce trailer | Feel the Same
 Elementary | S2E4 | Sleepwalker
-x
 
 ## Variants
 
