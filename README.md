@@ -116,8 +116,13 @@ LA Water | Helmet | Jan 7, 2011
 Media | Where | Song
 --- | --- | ---
 The Naked Director | Season 2 trailer | In Too Deep
+Gen:Lock | S1E8 | Weight of the World
+Gen:Lock | S1E2 | Syntax
 Invincible (TV series) | S1E5 | Alive
-Gen:LOCK | Throughout the series | Belgrade, Syntax, Alive, Sweatshop Boys, Last Resort & Spa, Weight of the World
+Gen:Lock | S1E3 | Alive
+Gen:Lock | S1E4 | Last Resort & Spa
+Gen:Lock | S2E4 | Last Resort & Spa
+Gen:Lock | Main theme | Belgrade
 Asphalt Xtreme | | Belgrade
 The Blacklist | S4E21 | Belgrade
 Now You See Me 2 | | Belgrade
@@ -126,6 +131,7 @@ Asphalt 9: Legends | | Valkyrie
 Lucifer | S1E2 | Valkyrie
 Girls | | Solid Gold
 The Crew 2 | | Dreamboat, Mulholland
+Gen:Lock | S1E4 | Sweatshop Boys
 National Geographic Channel | Ad campaign | Sweatshop Boys
 Bones | S9E14 | Sweatshop Boys
 Teen Wolf | S3E4 | Made
