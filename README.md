@@ -195,4 +195,6 @@ Might be released on the new album, but Starts Right Here was not, so who knows.
 
 Made from a combination of info from the [Battle Tapes Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes), the [Battle Tapes Discord Server](https://discord.gg/battletapes), and the ["Battle_Tapes_Discography.txt" (Discord Link)](https://discord.com/channels/420455270116753408/485095847529283594/884553822029115392) tossed around in there. 
 
-Little of the writing here is mine, of course. Just a combination of all the sources I could find. Feel free to contribute at any time.
+Little of the writing here is mine, of course. Just a combination of all the sources I could find. Feel free to contribute at any time. Adding suggestions through the issues page should be the easiest way.
+
+![Submit Issue](/repository/issueExample.png)
