@@ -198,5 +198,3 @@ Made from a combination of info from the [Battle Tapes Wikipedia](https://en.wik
 Little of the writing here is mine, of course. Just a combination of all the sources I could find. Feel free to contribute at any time. Adding suggestions through the issues page should be the easiest way.
 
 ![Submit Issue](/issueExample.png)
-
-x
