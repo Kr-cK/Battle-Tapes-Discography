@@ -182,7 +182,7 @@ Battle Tapes Website Download | Qobuz
 
 > Note: Some of this section is not my writing. See [Info](#Info)
 
-- An If Only lyric video was made but never released. [Link](https://www.behance.net/gallery/158024975/Battle-Tapes-If-Only-Lyric-Video)
+- An If Only lyric video was made but never released. Also with minor differences to the song. (Ex. ~3:00 has an extra "If only I could lose you" - which is not in the released song) [Link](https://www.behance.net/gallery/158024975/Battle-Tapes-If-Only-Lyric-Video)
 
 - According to these links ([1](https://web.archive.org/web/20200510005622/https://twitter.com/zyncmusic/status/1257163405472854016) [2](https://web.archive.org/web/20200511023106/https://twitter.com/HBO/status/1257112709989982208) [3](
 https://web.archive.org/web/20200604223426/https://www.youtube.com/watch?v=jsI4WwuTuPg)), there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
