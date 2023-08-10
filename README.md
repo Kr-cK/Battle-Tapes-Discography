@@ -182,13 +182,13 @@ Battle Tapes Website Download | Qobuz
 
 > Note: A lot of this section is not my writing. See [Info](#Info)
 
-An If Only lyric music video was made but never released. [Link](https://www.behance.net/gallery/158024975/Battle-Tapes-If-Only-Lyric-Video)
+- An If Only lyric music video was made but never released. [Link](https://www.behance.net/gallery/158024975/Battle-Tapes-If-Only-Lyric-Video)
 
-- https://web.archive.org/web/20200510005622/https://twitter.com/zyncmusic/status/1257163405472854016
-- https://web.archive.org/web/20200511023106/https://twitter.com/HBO/status/1257112709989982208
-- https://web.archive.org/web/20200604223426/https://www.youtube.com/watch?v=jsI4WwuTuPg
 
-According to these links, there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
+
+
+According to these links [1](https://web.archive.org/web/20200510005622/https://twitter.com/zyncmusic/status/1257163405472854016) [2](https://web.archive.org/web/20200511023106/https://twitter.com/HBO/status/1257112709989982208) [3](
+https://web.archive.org/web/20200604223426/https://www.youtube.com/watch?v=jsI4WwuTuPg), there is a Battle Tapes collab with Valerie Broussard. Can't find this song anywhere, and the title is unknown.
 Might be released on the new album, but Starts Right Here was not, so who knows.
 
 - BMI has a repertoire that lets you [see the titles of some unreleased songs](https://repertoire.bmi.com/Search/Search?Main_Search_Text=Battle%20Tapes&Main_Search=Catalog&Search_Type=all&View_Count=20&Page_Number=1&Part_Type=PerformerList&Part_Id=k%252btrXQ9awZUEMuihUaVCxQ%253d%253d&Part_Id_Sub=YO0HedHMatLb45JzS23DVw%253d%253d&Part_Cae=YO0HedHMatLb45JzS23DVw%253d%253d&Original_Search=Performer) 
