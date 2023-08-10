@@ -150,7 +150,7 @@ Elementary | S2E4 | Sleepwalker
 
 ## Variants
 
-> Note: A lot of this section is not my writing. See [Info](#Info)
+> Note: Some of this section is not my writing. See [Info](#Info)
 
 - Need For Speed 2015: Valkyrie. Mixing of the song is noticeably different. This version was not officially released
 but can be found on [Youtube](https://www.youtube.com/watch?v=bknj3R74vlQ).
@@ -180,7 +180,7 @@ Battle Tapes Website Download | Qobuz
 
 ## Unreleased 🤫
 
-> Note: A lot of this section is not my writing. See [Info](#Info)
+> Note: Some of this section is not my writing. See [Info](#Info)
 
 - An If Only lyric music video was made but never released. [Link](https://www.behance.net/gallery/158024975/Battle-Tapes-If-Only-Lyric-Video)
 
