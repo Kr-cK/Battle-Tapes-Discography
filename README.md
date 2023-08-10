@@ -182,6 +182,8 @@ Battle Tapes Website Download | Qobuz
 
 > Note: A lot of this section is not my writing. See [Info](#Info)
 
+An If Only lyric music video was made but never released. [Link](https://www.behance.net/gallery/158024975/Battle-Tapes-If-Only-Lyric-Video)
+
 - https://web.archive.org/web/20200510005622/https://twitter.com/zyncmusic/status/1257163405472854016
 - https://web.archive.org/web/20200511023106/https://twitter.com/HBO/status/1257112709989982208
 - https://web.archive.org/web/20200604223426/https://www.youtube.com/watch?v=jsI4WwuTuPg
