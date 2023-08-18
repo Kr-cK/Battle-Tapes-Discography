@@ -64,7 +64,7 @@ Album/EP | Title | Release Date | Single Release Date
 Sweatshop Boys - EP | Sweatshop Boys | Apr 13, 2012 | 
 Sweatshop Boys - EP | Why (Segue Edit) |  Apr 13, 2012 | 
 Sweatshop Boys - EP | Made |  Apr 13, 2012 | 
-Sweatshop Boys - EP | Mulholland (Segue Edit) |  Apr 13, 2012 | (Released on Polygon Nov 20, 2015)
+Sweatshop Boys - EP | Mulholland (Segue Edit) |  Apr 13, 2012 | (Full version released on Polygon Nov 20, 2015)
 Sweatshop Boys - EP | Feel the Same |  Apr 13, 2012 | (Released on Polygon Nov 20, 2015)
 
 ### Sleepwalker - EP
