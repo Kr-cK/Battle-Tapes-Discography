@@ -178,7 +178,9 @@ Battle Tapes Website Download | Qobuz
 
 - The Texture version of Syntax seems to be a different version as well.
 
-## Unreleased 🤫
+## Unreleased
+
+🤫
 
 > Note: Some of this section is not my writing. See [Info](#Info)
 
