@@ -1,7 +1,7 @@
 # Battle-Tapes-Discography
 Fun little community discography for Battle Tapes fans. See [Info](#info) for About & Sources
 
-Jump to - [Albums](#albums) - [EPs](#eps) - [Remixes](#remixes) - [In Media](#in-media) - [Variants](#variants) - [Unreleased](#unreleased) - [Info](#info)
+Jump to - [Albums](#albums) - [EPs](#eps) - [Remixes](#remixes) - [In Media](#in-media) - [Variants](#variants) - [Interviews](#interviews) - [Unreleased](#unreleased) - [Info](#info)
 
 ## Albums
 
@@ -177,6 +177,21 @@ Youtube | Spotify
 Battle Tapes Website Download | Qobuz
 
 - The Texture version of Syntax seems to be a different version as well.
+
+## Interviews
+
+Source | Date | Link
+--- | --- | ---
+blisspop.com | Jul 16, 2019 | [Link](https://blisspop.com/interview-battle-tapes/)
+musictech.com | Apr 29, 2019 | [Link](https://musictech.com/features/interviews/battle-tapes-josh-boardman/)
+unclearmag.com | Aug 11, 2017 | [Link](https://www.unclearmag.com/music-posts/2017/8/11/battle-tapes-interview)
+digitaltrends.com | Jul 14, 2017 | [Link](https://www.digitaltrends.com/music/he-audiophile-battle-tapes-interview/)
+regenmag.com | Jul 11, 2017 | [Link](https://regenmag.com/interviews/battle-tapes-interview-rhyme-and-reason/)
+preludepress.com | Jun 19, 2017 | [Link](https://preludepress.com/interviews/2017/06/19/qa-with-battle-tapes/)
+electricityclub.co.uk | Feb 11, 2016 | [Link](https://www.electricityclub.co.uk/battle-tapes-interview/)
+Badass Bands | Mar 23, 2015 | [Link (YouTube)](https://www.youtube.com/watch?v=89g8He799X8)
+rockstarnetwork.net | Nov 18, 2014 | [Link](https://www.rockstarnetwork.net/2014/11/battle-tapes-interview/)
+We Found New Music | Oct 10, 2014 | [Link (YouTube)](https://www.youtube.com/watch?v=ar-13Q1kXV4)
 
 ## Unreleased
 
