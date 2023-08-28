@@ -1,7 +1,7 @@
 # Battle-Tapes-Discography
 Fun little community discography for Battle Tapes fans. See [Info](#info) for About & Sources
 
-Jump to - [Albums](#albums) - [EPs](#eps) - [Remixes](#remixes) - [In Media](#in-media) - [Variants](#variants) - [Interviews](#interviews) - [Unreleased](#unreleased) - [Info](#info)
+Jump to - [Albums](#albums) - [EPs](#eps) - [Remixes](#remixes) - [In Media](#in-media) - [Variants](#variants) - [Live](#live) - [Interviews](#interviews) - [Unreleased](#unreleased) - [Info](#info)
 
 ## Albums
 
@@ -177,6 +177,21 @@ Youtube | Spotify
 Battle Tapes Website Download | Qobuz
 
 - The Texture version of Syntax seems to be a different version as well.
+
+## Live
+
+Where | Link
+--- | ---
+Crave Onstage | [Crave Onstage // Battle Tapes perform "Belgrade" (live)](https://www.youtube.com/watch?v=9nt4LdZWLCE)
+Crave Onstage | [Crave Onstage // Battle Tapes perform "Valkyrie" (live)](https://www.youtube.com/watch?v=Ue5wgwNI1tU)
+Crave Onstage | [Crave Onstage // Battle Tapes perform "Sweatshop Boys" (live)](https://www.youtube.com/watch?v=yf-z6x9Xv2o)
+Antiquiet's SXSW Showcase | [Battle Tapes: Shake That / Graveyard Shift (Antiquiet's SXSW Showcase 2014)](https://www.youtube.com/watch?v=sie7hoaZQgk)
+Antiquiet's SXSW Showcase | [Battle Tapes: Thriller / Feel The Same (Antiquiet's SXSW Showcase 2014)](https://www.youtube.com/watch?v=UR-Mg6ZM1xw)
+? | [Battle Tapes - October 20 2015](https://www.youtube.com/watch?v=vsUyXBidVko)
+Badass Bands | [Battle Tapes- Feel The Same {Badass Bands Blog Live}](https://www.youtube.com/watch?v=Ge-bvTAppnc)
+Badass Bands | [Battle Tapes- Graveyard Shift {Badass Bands Blog Live}](https://www.youtube.com/watch?v=rDcUhN6-2Os)
+Moroccan Lounge | [Battle Tapes @ The Moroccan Lounge (10/9/17)](https://www.youtube.com/watch?v=rsgPT_x-RGI)
+We Found New Music | [Battle Tapes Live Set - WE FOUND NEW MUSIC Live - KX 93.5 FM](https://www.youtube.com/watch?v=EbQdW8OG0gI)
 
 ## Interviews
 
