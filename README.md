@@ -197,6 +197,7 @@ We Found New Music | [Battle Tapes Live Set - WE FOUND NEW MUSIC Live - KX 93.5 
 
 Source | Date | Link
 --- | --- | ---
+Crashsune | Mar 6, 2023 | [Link (YouTube)](https://www.youtube.com/watch?v=XKOAsSUTI1E)
 blisspop.com | Jul 16, 2019 | [Link](https://blisspop.com/interview-battle-tapes/)
 musictech.com | Apr 29, 2019 | [Link](https://musictech.com/features/interviews/battle-tapes-josh-boardman/)
 unclearmag.com | Aug 11, 2017 | [Link](https://www.unclearmag.com/music-posts/2017/8/11/battle-tapes-interview)
