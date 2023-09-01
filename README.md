@@ -180,7 +180,7 @@ Battle Tapes Website Download | Qobuz
 
 ## Live
 
-Where | Link
+Where | Link (YouTube)
 --- | ---
 Crave Onstage | [Crave Onstage // Battle Tapes perform "Belgrade" (live)](https://www.youtube.com/watch?v=9nt4LdZWLCE)
 Crave Onstage | [Crave Onstage // Battle Tapes perform "Valkyrie" (live)](https://www.youtube.com/watch?v=Ue5wgwNI1tU)
