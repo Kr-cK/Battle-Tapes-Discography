@@ -111,7 +111,7 @@ LA Water | Helmet | Jan 7, 2011
 
 ## In Media
 
-> Taken largely from [Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes)
+> Taken largely from [Wikipedia](https://en.wikipedia.org/wiki/Battle_Tapes) & [Tunefind](https://www.tunefind.com/artist/battle-tapes)
 
 Media | Where | Song
 --- | --- | ---
@@ -120,6 +120,8 @@ CSI: Vegas | S1E9 | In Too Deep
 Gen:Lock | S1E8 | Weight of the World
 Gen:Lock | S1E2 | Syntax
 Invincible (TV series) | S1E5 | Alive
+Marvel's Inhumans | S1E6 | Alive
+Legacies | S1E1 | Alive
 Gen:Lock | S1E3 | Alive
 Gen:Lock | S1E4 | Last Resort & Spa
 Gen:Lock | S2E4 | Last Resort & Spa
@@ -131,6 +133,7 @@ Need for Speed | Drift races | Valkyrie
 Asphalt 9: Legends | | Valkyrie
 Lucifer | S1E2 | Valkyrie
 Girls | | Solid Gold
+The Family | | S1E5
 The Crew 2 | | Dreamboat, Mulholland
 Gen:Lock | S1E4 | Sweatshop Boys
 National Geographic Channel | Ad campaign | Sweatshop Boys
@@ -148,6 +151,7 @@ Hyper Scape | | Feel the Same
 Grand Theft Auto V | | Feel the Same
 Xbox Elite Wireless Controller Series 2 | Announce trailer | Feel the Same
 Elementary | S2E4 | Sleepwalker
+The Originals | S5E3 | Sleepwalker Pt. II
 
 ## Variants
 
