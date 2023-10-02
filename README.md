@@ -116,6 +116,7 @@ LA Water | Helmet | Jan 7, 2011
 Media | Where | Song
 --- | --- | ---
 The Naked Director | Season 2 trailer | In Too Deep
+CSI: Vegas | S1E9 | In Too Deep
 Gen:Lock | S1E8 | Weight of the World
 Gen:Lock | S1E2 | Syntax
 Invincible (TV series) | S1E5 | Alive
