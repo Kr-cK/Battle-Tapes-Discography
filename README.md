@@ -165,6 +165,8 @@ but can be found on [Youtube](https://www.youtube.com/watch?v=bknj3R74vlQ).
 
 - A slower demo of In Too Deep exists ([Youtube](https://www.youtube.com/shorts/WFsooowaRLI))
 
+- Another version of In Too Deep exists in S1E9 of CSI: Vegas. It's an instrumental snippet.
+
 - The In Too Deep featured in "The Naked Director Season 2 Trailer" has a different tempo and different mixing
 
 - A (non-distributed) instrumental of Last Resort and Spa exists, with extra changes at ~3:00 ([Youtube](https://www.youtube.com/watch?v=0J1I32dWEjk))
