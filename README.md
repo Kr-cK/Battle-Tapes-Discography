@@ -183,6 +183,8 @@ V1 | V2
 Youtube | Spotify
 Battle Tapes Website Download | Qobuz
 
+![WOTW](/WOTW.webp)
+
 - The Texture version of Syntax seems to be a different version as well.
 
 ## Live
