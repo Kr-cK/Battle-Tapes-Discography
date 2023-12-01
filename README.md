@@ -218,7 +218,7 @@ We Found New Music | Oct 10, 2014 | [Link (YouTube)](https://www.youtube.com/wat
 
 ## Unreleased
 
-🤫
+Shhhhh!!
 
 > Note: Some of this section is not my writing. See [Info](#Info)
 
